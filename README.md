@@ -1,6 +1,6 @@
 # MarioSP4
 
-**##Målet med denne opgave:
+**Målet med denne opgave:**
 
 • Designe database til Mario
 
@@ -8,13 +8,13 @@
 
 • Indsætte pizzaer fra menukortet i databasen
 
-**##Udgangspunktet for databasen er jeres nuværende Java program og fremtidige ønsker til programmet.
+**Udgangspunktet for databasen er jeres nuværende Java program og fremtidige ønsker til programmet.**
 
 A. Hvordan ser det ud nu? Har I et godt design, som udgangspunkt for jeres videre kodning?
 
 B. Hvad skal programmet kunne?
 
-**###Dette vil være forskelligt for hver gruppe, hvor meget I når. Spørg gerne vejleder til råds. Fx:
+**Dette vil være forskelligt for hver gruppe, hvor meget I når. Spørg gerne vejleder til råds. Fx:**
 
 a. Validering af brugerinput
 
