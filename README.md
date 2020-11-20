@@ -4,6 +4,9 @@
 
 • Designe database til Mario
 
+- [ ] Designe database til Mario
+- [x] Oprette database i MySQL Workbench vha. SQL Script
+- [ ] Indsætte pizzaer fra menukortet i databasen
 • Oprette database i MySQL Workbench vha. SQL Script
 
 • Indsætte pizzaer fra menukortet i databasen
