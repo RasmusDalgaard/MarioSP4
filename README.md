@@ -1,4 +1,4 @@
-# MarioSP4
+# MarioSP4 / Claus, Frederik, Nicolai og Rasmus
 
 **Målet med denne opgave:**
 
@@ -10,20 +10,21 @@
 
 **Udgangspunktet for databasen er jeres nuværende Java program og fremtidige ønsker til programmet.**
 
-A. Hvordan ser det ud nu? Har I et godt design, som udgangspunkt for jeres videre kodning?
+• Hvordan ser det ud nu? Har I et godt design, som udgangspunkt for jeres videre kodning?
 
-B. Hvad skal programmet kunne?
+• Hvad skal programmet kunne?
 
 **Dette vil være forskelligt for hver gruppe, hvor meget I når. Spørg gerne vejleder til råds. Fx:**
 
-a. Validering af brugerinput
+• Validering af brugerinput
 
-b. Exception handling
+• Exception handling
 
-c. Flere pizzaer på én ordre
+• Flere pizzaer på én ordre
 
-d. Afhentningstidspunkt
+• Afhentningstidspunkt
 
-e. Automatiserede tests
+• Automatiserede tests
 
-f. Statistik på pizzaer
+• Statistik på pizzaer
+
