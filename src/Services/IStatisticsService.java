@@ -11,4 +11,6 @@ public interface IStatisticsService {
     public void showStatistics();
 
     public int getPizzaFrequency(String target, ArrayList<String> pizzas);
+
+    public int getTurnover();
 }
